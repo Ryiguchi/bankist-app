@@ -1,0 +1,13 @@
+<link rel="icon" href="data:;base64,=">
+
+// for Prettier 
+create ".prettierrc" file
+{
+  "singleQuote": true,
+  "arrowParens": "avoid"
+}
+
+Notes:
+
+- use max-width on contaianer to give a max width but alow it to shrink
+- margin: 0 auto; - centers its child elements
